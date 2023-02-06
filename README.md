@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Sadia Tanny
-![I am GitHub Readme Generator's creator](https://images.yourstory.com/cs/2/dc9aa1302d6c11e9aa979329348d4c3e/PTfeatured1-1624968329149.png)
+![I am GitHub Readme Generator's creator](https://images.yourstory.com/cs/0/dc9aa1302d6c11e9aa979329348d4c3e/PTfeatured1-1624968329149.png)
 
 I am Sadia from Bangladesh. I really enjoy learning languages. I love to solve real world problems. I have a passion for learning and sharing my knowledge with others as publicly as possible. I really like to work with overleaf.
 
