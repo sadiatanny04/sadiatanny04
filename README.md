@@ -6,7 +6,7 @@ I am Sadia from Bangladesh. I really enjoy learning languages. I love to solve r
 Skills: PHP / REACT / Java/ HTML / CSS/Python
 
 - 🔭 I’m currently working on Website Development 
-- 🌱 I’m currently learning Java Script 
+- 🌱 I’m currently learning PHP 
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about Anything 
 - 📫 How to reach me: sadiaanha766@gmail.com 
