@@ -1,5 +1,6 @@
 ### Hi there 👋, I'm Sadia Tanny
-![I am GitHub Readme Generator's creator](https://viserx.com/wp-content/uploads/2021/05/Find-Website-Developer-Near-Me-2021-Beginners-Guide.jpg)
+![I am GitHub Readme Generator's creator](https://techsetup.in/images/custom-webdevelopment.png)
+
 I am Sadia from Bangladesh. I really enjoy learning languages. I love to solve real world problems. I have a passion for learning and sharing my knowledge with others as publicly as possible. I really like to work with overleaf.
 
 Skills: PHP / REACT / Java/ HTML / CSS/Python
