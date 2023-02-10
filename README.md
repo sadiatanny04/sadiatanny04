@@ -3,7 +3,7 @@
 
 I am Sadia from Bangladesh. I really enjoy learning languages. I love to solve real world problems. I have a passion for learning and sharing my knowledge with others as publicly as possible.
 
-Skills: HTML / CSS / JavaScript / PHP / Python / 
+Skills: HTML / CSS / JavaScript / PHP / Laravel / Python  
 
 - 🔭 I’m currently working on Website Development 
 - 👯 I’m looking to collaborate on Github 
