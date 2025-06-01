@@ -5,7 +5,7 @@ I am Sadia from Bangladesh. I really enjoy learning languages. I love to solve r
 
 Skills: HTML / CSS / JavaScript / PHP / Python  
 
-- 🔭 I’m currently working on Website Development 
+- 🎯 Engineering ideas into strategic impact | 📊 Engineering Management Master's Student | 🐍 Python enthusiast turning project data into smart decisions | 🚀 Learning every day, building with purpose.
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about Anything 
 - 📫 How to reach me: sadiaanha766@gmail.com 
