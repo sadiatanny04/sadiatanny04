@@ -5,7 +5,7 @@ I am Sadia from Bangladesh. I really enjoy learning languages. I love to solve r
 
 Skills: HTML / CSS / JavaScript / PHP / Python  
 
-- 🎯 Connecting engineering with strategic thinking | 📊 Engineering Management Master's Student | 🐍 Python enthusiast turning project data into smart decisions | 🚀 Learning every day, building with purpose.
+- 🎯 Connecting engineering with strategic thinking | 📊 Engineering Management Master's Student at BSBI | 🐍 Python enthusiast turning project data into smart decisions | 🚀 Learning every day, building with purpose.
 - 📫 How to reach me: sadiaanha766@gmail.com 
 
 
